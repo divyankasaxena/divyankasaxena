@@ -1,16 +1,34 @@
-## Hi there 👋
+<p align="center">
+  <img src="./ChatGPT Image Jun 21, 2026, 10_41_34 PM.png" width="100%" />
+</p>
 
-<!--
-**divyankasaxena/divyankasaxena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋 I'm Divyanka Saxena
 
-Here are some ideas to get you started:
+🎓 Final Year B.Tech Student @ GLA University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Full Stack Developer
+
+🚀 Tech Stack
+
+- Java
+- React.js
+- Node.js
+- MongoDB
+- MySQL
+- JavaScript
+
+🌱 Currently Building
+
+- AI Interview Simulator
+- Real-Time Applications
+
+📫 Reach Me
+
+- LinkedIn:https://www.linkedin.com/in/divyankasaxena/
+- Email: saxenadivyanka187@gmail.com
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=divyankasaxena&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divyankasaxena&layout=compact&theme=tokyonight)
