@@ -22,6 +22,25 @@
 - AI Interview Simulator
 - Real-Time Applications
 
+Participated in Spectra3.0 Hackathon . 
+Participated in Codepunk Hackathon .
+Particiapted and won 2nd prize in college Hackathon .
+
+Certified in Microsoft Azure AI .
+Certified in MongoDB by Datacamp
+Certified in R by Datacamp
+Certified in Flutter by CiscoThinQbator .
+Certified in JAVA and Full Stack . 
+4 NPTEL Certifications .
+
+Anchored Parichay a grand freshers event alongwith multiple induction programmes 
+Hosted for Cyberonites Club at IntrusionX .
+Participated in various Extempore Competitions And Debate Competitions.
+Won 1st prize in Extempore and consolation prize in debate competition .
+Coordinated placement drives for smooth functioning .
+Volunterred in Srijan(a grand college fest).
+Volunteered and Anchored in Spardha(sports fest).
+
 📫 Reach Me
 
 - LinkedIn:https://www.linkedin.com/in/divyankasaxena/
